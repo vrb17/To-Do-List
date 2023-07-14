@@ -1,4 +1,4 @@
-# to-do-list
+# To-Do-List
 Functional to-do list web application using Flask. Contains routes to display, add, edit, delete, and mark tasks as completed.
 
 Overall, when the Flask application is run (to_do.py), it starts the server. Upon accessing the root route (/), the index.html template is rendered, displaying the current to-do list. The user can then interact with the application by adding, editing, deleting, and marking tasks as completed, triggering the corresponding routes defined in app.py and updating the todo_list. The changes are reflected in the rendered index.html template, providing a dynamic and interactive to-do list application.
